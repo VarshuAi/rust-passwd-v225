@@ -18,7 +18,7 @@ Ensure you have the required runtime environment installed (PYTHON).
 ### Execution
 Clone the repository and run:
 ```bash
-git clone https://github.com/VARSHAN69/rust-passwd-v225.git
+git clone https://github.com/VarshuAi/rust-passwd-v225.git
 cd rust-passwd-v225
 ```
 Run the master script or compile the executable entry point.
