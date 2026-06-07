@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Applies Blowfish/SHA hash algorithms to secure raw credentials. [Variant 225 using PYTHON with Oceanic theme]
+  name: rust-passwd-v225 version: 1.0 type: Repository author: VarshuAi description: >   Applies Blowfish/SHA hash algorithms to secure raw credentials. [Variant 225 using PYTHON with Oceanic theme] primary_tech: Python
 primary_tech: Python
 ```
 
